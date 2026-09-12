@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: MouseoverCast
+## Notes: Macro-free friendly healing/protection and hostile mouseover casting for Vanilla 1.12 with SuperWoW + ClassicAPI.
+## Author: Wurmschwanz
+## Version: 1.0.0
+## SavedVariables: MouseoverCastDB
+
+MouseoverCast.lua
