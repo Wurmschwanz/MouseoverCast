@@ -1,29 +1,46 @@
-# MouseoverCast v1.0.0
+# MouseoverCast
 
-A lightweight Vanilla WoW 1.12 / OctoWoW addon that adds macro-free mouseover casting to normal actionbar spells.
+**MouseoverCast** brings modern-style mouseover casting to **Vanilla WoW 1.12**.
 
-## Requirements
+Cast healing, defensive, and offensive spells directly on units under your mouse cursor — without creating individual mouseover macros.
 
-- SuperWoW
-- ClassicAPI
+---
 
-## Interface options
+## ✨ Features
 
-Open **ESC -> Interface -> MouseoverCast**.
+- 🩹 Mouseover Healing
+- 🛡️ Mouseover Shields & Defensive Spells
+- ⚔️ Optional Offensive Mouseover Casting
+- 🎯 Keeps your current target selected
+- 🖱️ Works with Blizzard frames and most custom unit frames
+- ⚙️ Integrated directly into the Interface menu
 
-- **Mouseover Healing** — enabled by default. Healing and supported protection spells cast on a valid friendly mouseover.
-- **Mouseover Offensive Spells** — disabled by default. Harmful spells cast on a valid hostile mouseover.
+---
 
-If no matching mouseover exists, normal WoW casting behavior is used and your current target is left unchanged.
+## ⚙️ Settings
 
-## v1.0.0
+Open:
 
-- MouseoverCast is a dedicated entry in the normal Interface navigation.
-- The navigation row now copies the native Help row's font, size, text color, indentation and highlight appearance.
-- No Controls scroll-frame modifications are required.
+**ESC → Interface → MouseoverCast**
 
-## Commands
+Options:
 
-- `/moc` or `/moc status`
-- `/moc on` / `/moc off`
-- `/moc offensive on` / `/moc offensive off`
+- **Mouseover Healing**
+- **Mouseover Offensive Spells**
+
+---
+
+## 📦 Requirements
+
+- **SuperWoW.dll**
+- **ClassicAPI.dll**
+
+---
+
+## ❤️ Credits
+
+Created by **Aaron / Wurmschwanz**
+
+Special thanks to the **SuperWoW** and **ClassicAPI** developers for making advanced Vanilla addon functionality possible.
+
+Feedback, bug reports, and compatibility testing are always welcome.
