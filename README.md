@@ -37,10 +37,8 @@ Options:
 
 ---
 
-## ❤️ Credits
+## 💬 Feedback
 
-Created by **Aaron / Wurmschwanz**
+Feedback, bug reports, spell suggestions, and compatibility testing with different classes or raid frame addons are always welcome.
 
-Special thanks to the **SuperWoW** and **ClassicAPI** developers for making advanced Vanilla addon functionality possible.
-
-Feedback, bug reports, and compatibility testing are always welcome.
+If you find a spell that does not work correctly with mouseover casting, please report it so it can be added or fixed.
